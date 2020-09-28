@@ -1,0 +1,2 @@
+# Wifi_SmartConfigureLatest
+Wifi_SmartConfigure2nd Sample code Latest
